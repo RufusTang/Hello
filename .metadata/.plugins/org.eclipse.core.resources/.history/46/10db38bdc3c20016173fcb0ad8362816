@@ -1,0 +1,7 @@
+#coding=utf-8 
+'''
+Created on 2016年12-15
+
+@author: Administrator
+'''
+print("Hello World")
